@@ -1,0 +1,8 @@
+obj-m +=RGB_switch.o
+
+KDIR:=/home/xiang/IMX6/Cdata4.0/fsl-linux
+PWD=$(shell pwd)
+all:
+	make -C $(KDIR) M=$(PWD) modules
+clean:
+	rm -rf *.o *.ko *.order *.symvers
