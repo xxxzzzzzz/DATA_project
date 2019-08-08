@@ -1,0 +1,2 @@
+/home/xiang/ASM9260T/ASM9260T_driver/1hm_weight/1hm_device/1hm_device.ko
+/home/xiang/ASM9260T/ASM9260T_driver/1hm_weight/1hm_device/1hm_device.o

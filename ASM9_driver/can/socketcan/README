@@ -1,0 +1,8 @@
+can_Cdatabox使用方法
+can_Cdatabox 1 //发送CAN设备节点1 自动控制RGB和读取数据,但是发送10，它会从1到10循环发送，所以不适合指定ID发送
+
+can_single_Cdatabox 使用方法
+can_single_Cdatabox 5 //发送CAN设备节点1,读取重力传感器数据,可以指定任意ID发送
+
+cansendrcv 测量发送接收
+cansendrcv 1 表示电脑要发送ID必须是1，数据随意

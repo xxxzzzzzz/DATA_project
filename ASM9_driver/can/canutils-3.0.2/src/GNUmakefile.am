@@ -1,0 +1,17 @@
+bin_PROGRAMS = \
+	candump \
+	cansend \
+	canecho \
+	cansequence
+
+sbin_PROGRAMS = \
+	canconfig
+
+AM_CPPFLAGS = \
+	-I$(top_srcdir)/include \
+	-I$(top_builddir)/include \
+	-DPF_CAN=29 \
+	-DAF_CAN=PF_CAN 
+
+MAINTAINERCLEANFILES = \
+	GNUmakefile.in

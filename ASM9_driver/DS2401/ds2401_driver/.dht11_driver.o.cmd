@@ -1,0 +1,1 @@
+cmd_/home/xiang/ASM9260T/ASM9260T_driver/dhtll/dht11_driver/dht11_driver.o := /opt/ASM9260T_CROSS/arm-2008q3-linux/bin/arm-none-linux-gnueabi-ld -EL    -r -o /home/xiang/ASM9260T/ASM9260T_driver/dhtll/dht11_driver/dht11_driver.o /home/xiang/ASM9260T/ASM9260T_driver/dhtll/dht11_driver/dht11_driver_code.o /home/xiang/ASM9260T/ASM9260T_driver/dhtll/dht11_driver/dht11.o 

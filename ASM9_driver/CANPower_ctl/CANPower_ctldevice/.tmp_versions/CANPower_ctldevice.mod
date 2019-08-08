@@ -1,0 +1,2 @@
+/home/xiang/ASM9260T/ASM9260T_driver/CANPower_ctl/CANPower_ctldevice/CANPower_ctldevice.ko
+/home/xiang/ASM9260T/ASM9260T_driver/CANPower_ctl/CANPower_ctldevice/CANPower_ctldevice.o

@@ -1,0 +1,2 @@
+/home/xiang/ASM9260T/ASM9260T_driver/DS2401/ds2401_device/ds2401_device.ko
+/home/xiang/ASM9260T/ASM9260T_driver/DS2401/ds2401_device/ds2401_device.o
